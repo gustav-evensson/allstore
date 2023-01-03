@@ -2,7 +2,7 @@
 
 ![](https://github.com/gustav-evensson/allstore/blob/main/readmeAssets/allstoreThumb.jpg)
 
-AllStore is a project i did solely for my own learning purpose. I tried to implement a few different functions that a had not worked on before. The website is not functional in any other way than visual content. 
+[AllStore](https://all-store-dae9a.web.app/) is a project i did solely for my own learning purpose. I tried to implement a few different functions that a had not worked on before. The website is not functional in any other way than visual content. 
 
 I used an API from [DummyJSON](https://dummyjson.com/) to get the products that are show on the page.
 
